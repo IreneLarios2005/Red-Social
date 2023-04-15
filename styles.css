@@ -1,0 +1,97 @@
+#contenedor-principal {
+  background-image: url(i/ma.gif);
+  
+}
+.bordes-redondeados2 {
+  border-radius: 50%;
+    width: 30px;
+    border-width: 3px;
+    border-color: purple;
+    border-style: inset;
+
+}
+
+.bordes-redondeados {
+    border-radius: 50%;
+      width: 300px;
+      border-width: 8px;
+      border-color: purple;
+      border-style: inset;
+
+}    
+
+.lo{
+  font-size: 40px;
+  
+}
+
+.sub{
+  font-size: 20px;
+  color: purple;
+  font-family: 'Alkatra', cursive;;
+}
+
+
+.a{
+  font-size: 25px;
+  color: purple;
+  font-family: 'Alkatra', cursive;;
+
+}
+
+.caja{
+  background-image: url(i/u.jpg);
+  width: 150px;
+  height: 150;
+  margin: 20px;
+  border: 2px solid black;
+  padding: 10px;
+  float: left;
+  
+}
+
+.caja1{
+  width: 150px;
+  height: 200;
+  margin: 20px;
+  border: 2px solid black;
+  padding: 5px;
+  float: left;
+  
+}
+
+.caja2{
+  width: 250px;
+  height: 200;
+  margin: 20px;
+  border: 2px solid black;
+  padding: 12px;
+  float: left;
+}
+
+
+.l{
+  font-size: 20px;
+  color: purple;
+  font-family: 'Alkatra', cursive;;
+}
+
+
+a:link{
+  color:red;
+}
+
+a:visited{
+  color: rgb(184, 28, 184);
+}
+
+a:hover{
+  color:green;
+}
+
+a:active{
+  color:blue;
+}
+
+    
+  
